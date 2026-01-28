@@ -1,6 +1,8 @@
 # The Strategic Personal Brand Playbook
 ## A Data-Driven Guide to Telling Your Story with Impact
 
+![Logo](logo.png)
+
 ---
 
 ## Executive Summary
@@ -25,7 +27,7 @@ In today's knowledge economy, your personal brand is not vanity—it's strategic
 ### Why This Feels Uncomfortable (And Why You Should Do It Anyway)
 
 **The Research:**
-- **Women and underrepresented groups** are 30% less likely to self-promote than male counterparts (McKinsey, 2023)
+- **Women and underrepresented groups** are 30% less likely to self-promote than male counterparts
 - **Impostor syndrome** affects 70% of professionals at some point in their careers (Journal of Behavioral Science)
 - People who don't self-advocate are **2x less likely** to be considered for stretch assignments (Catalyst Research)
 
@@ -102,7 +104,7 @@ In today's knowledge economy, your personal brand is not vanity—it's strategic
 
 ### Pillar 2: Value Proposition Formula
 
-**The McKinsey Value Proposition Structure:**
+**The Value Proposition Structure:**
 
 ```
 I help [TARGET AUDIENCE]
@@ -767,7 +769,6 @@ Before any networking event, interview, or high-stakes meeting:
 
 **Research:**
 - Harvard Business Review: "The Science of Self-Promotion"
-- McKinsey: "Women in the Workplace" (visibility gap data)
 - LinkedIn: "Personal Branding Playbook"
 
 ---
